@@ -1,4 +1,4 @@
-module go.temporal.io/api
+module github.com/spiral/go-api
 
 go 1.13
 
@@ -15,3 +15,5 @@ require (
 	google.golang.org/grpc v1.31.0
 	google.golang.org/protobuf v1.25.0 // indirect
 )
+
+//go.temporal.io/api

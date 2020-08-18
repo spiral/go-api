@@ -31,7 +31,7 @@ import (
 	reflect "reflect"
 
 	gomock "github.com/golang/mock/gomock"
-	workflowservice "go.temporal.io/api/workflowservice/v1"
+	workflowservice "github.com/spiral/go-api/workflowservice/v1"
 	grpc "google.golang.org/grpc"
 )
 

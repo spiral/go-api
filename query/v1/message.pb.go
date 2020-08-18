@@ -28,8 +28,8 @@ package query
 import (
 	fmt "fmt"
 	proto "github.com/gogo/protobuf/proto"
-	v1 "go.temporal.io/api/common/v1"
-	v11 "go.temporal.io/api/enums/v1"
+	v1 "github.com/spiral/go-api/common/v1"
+	v11 "github.com/spiral/go-api/enums/v1"
 	io "io"
 	math "math"
 	math_bits "math/bits"
